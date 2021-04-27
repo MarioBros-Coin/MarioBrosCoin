@@ -20,12 +20,12 @@
     <br />
     <h4 align="center">Audit Comments</h4>
       <p align="center"> 
+    
+Being that Mario Token is community funded this brings difficulties to raise the funds to cover the audit costs. 
 
-In regards to the audit, one of the places we've talked to about getting it audited is requesting minimum of $2000.
+After reviewing the code and comparing it with previous audits that passed, the code seems identical except for the introduction lines. 
 
-After reviewing the code and comparing it with previous reviews that company has done, our code seems to be identical as those that have passed audit checks. With the benefit being our highest wallets being below 3% which means no one or few holders can just dump the coin on the rest of the holders and run off.
-
-Details of these comparisons can be viewed in the Audit Comparison directory.
+Detailed and highlighted differences can be viewed in the audit comparison directory.
 
 **Note this project is a SafeMoon clone and the original code can be viewed here: 
 <a href="https://github.com/safemoonprotocol/Safemoon.sol/blob/main/Safemoon.sol">View SafeMoon Code</a>
