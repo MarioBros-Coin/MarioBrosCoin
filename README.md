@@ -17,6 +17,16 @@
   <a href="https://poocoin.app/tokens/0x25f6524c2bfa5eebcc50beafd08525e0786082cf">Live Chart</a>
     <br />
   <b>Contract Address:</b> 0x25f6524c2bfa5eebcc50beafd08525e0786082cf
+    <br />
+    <h4 align="center">Audit Comments</h4>
+      <p align="center"> 
+
+In regards to the audit, one of the places we've talked to about getting it audited is requesting minimum of $2000.
+
+After reviewing the code and comparing it with previous reviews that company has done, our code seems to be identical as those that have passed audit checks. With the benefit being our highest wallets being below 3% which means no one or few holders can just dump the coin on the rest of the holders and run off.
+
+Details of these comparisons can be viewed in the Audit Comparison directory.
+</p>
 </p>
 </p>
 
